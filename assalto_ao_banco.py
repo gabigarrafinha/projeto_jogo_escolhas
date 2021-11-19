@@ -430,7 +430,7 @@ def refem_comeca_chorar():
     time.sleep(0.3)
     escolha3 = input('''
     Você começa a chorar muito e repete sem parar que não quer morrer.
-    O bandido promete pupar sua vida, desde que você indique para ele quem pode abrir o cofre.
+    O bandido promete poupar sua vida, desde que você indique para ele quem pode abrir o cofre.
     Você lembra que cofre só abre uma vez no dia - pela manhã - e ninguém vai conseguir destrancá-lo.
     O que você faz?
 
